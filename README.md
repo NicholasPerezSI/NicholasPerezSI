@@ -5,13 +5,13 @@ Graduado em Segurança da Informação, estou construindo uma base sólida para 
 Este perfil é o meu portfólio profissional, onde compartilho projetos, estudos e evolução na área de cibersegurança.
 
 ## 💾 Certificações
-IC-SOC-353, Analista SOC, IBSEC 
+- [**Analista SOC**](certs/Analista_SOC.jpg) | **IBSEC**
 
-IC-GRC-960, Analista de Cybersegurança (Governança), IBSEC 
+- [**Analista de Cybersegurança (Governança)**](certs/Analista_de_Cibersegurança_(Governança).jpg) | **IBSEC**
 
-IC-SEC-1780, Boas Práticas de Cibersegurança (Cybersecurity Awareness), IBSEC 
+- [**Cybersecurity Awareness**](certs/Boas_práticas_de_cibersegurança.jpg) | **IBSEC**
 
-IC-PYTHON-860, Python para Cibersegurança, IBSEC 
+- [**Python para Cibersegurança**](certs/Python_para_Cybersegurança.jpeg) | **IBSEC**
 
 ## 💻 Habilidades
 SIEM | Análise de Logs | Resposta a Incidentes
