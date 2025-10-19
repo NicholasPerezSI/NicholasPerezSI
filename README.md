@@ -13,6 +13,13 @@ Este perfil é o meu portfólio profissional, onde compartilho projetos, estudos
 
 - [**Python para Cibersegurança**](certs/Python_para_Cybersegurança.jpeg) | **IBSEC**
 
+##  📚 Certificados
+- [**CCNA1**](certs/CCNA1.jpg) | **CISCO**
+
+- [**Defesa de Rede**](certs/Defesa_de_Rede.jpg) | **CISCO**
+
+- [**Network Security**](certs/Network_Security.jpg) | **CISCO**
+
 ## 💻 Habilidades
 SIEM | Análise de Logs | Resposta a Incidentes
 
