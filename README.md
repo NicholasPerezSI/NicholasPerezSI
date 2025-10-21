@@ -32,14 +32,18 @@ equipes de segurança desde o primeiro dia.
 
 - [**Banco de Dados**](certs/banco-de-dados-bra.png) | [🔍 Detalhes](certs/banco-bra-info.png) | **Fundação Bradesco**
 
-## 🛠 Habilidades
-SIEM | Análise de Logs | Resposta a Incidentes | Threat intelligence | Hardening
+## 🛠 Habilidades Técnicas
+**🔒 Governança & Compliance**
+`GRC` | `Gestão de Riscos` | `LGPD` | `ISO 27001` | `Políticas de SI`
 
-Criptografia | Segurança de Dados | Segurança Web | Segurança de Redes
+**🔍 Operações de Segurança** 
+`SIEM` | `Análise de Logs` | `Resposta a Incidentes` | `Threat Intelligence` | `Hardening`
 
-Governança de SI (GRC) | Gestão de Riscos | Normas e Padrões | LGPD | Políticas de SI
+**🌐 Segurança Técnica**
+`Segurança de Redes` | `Segurança Web` | `Criptografia` | `CCNA` | `Firewalls`
 
-Python para Cibersegurança | Fundamentos de Redes (CCNA) | Segurança Web 
+**💻 Desenvolvimento & Ferramentas**
+`Python` | `Automação` | `Scripting` | `Ferramentas de Pentest` | `Git`
 
 ## 📫 Conecte-se comigo
 Email: Nicholas_SI@outlook.com
