@@ -7,7 +7,7 @@ e resposta a incidentes**.
 
 Este portfólio documenta minha evolução técnica através de projetos reais 
 e estudos contínuos, demonstrando minha preparação para contribuir com 
-equipes de segurança desde o primeiro dia.
+equipes de segurança.
 
 ## 🛡 Certificações
 - [**Analista SOC**](certs/Analista_SOC.jpg) | [🔍 Detalhes](certs/SOC_info.png) | **IBSEC**
@@ -32,18 +32,19 @@ equipes de segurança desde o primeiro dia.
 
 - [**Banco de Dados**](certs/banco-de-dados-bra.png) | [🔍 Detalhes](certs/banco-bra-info.png) | **Fundação Bradesco**
 
-## 🛠 Habilidades Técnicas
-**🔒 Governança & Compliance**
-`GRC` | `Gestão de Riscos` | `LGPD` | `ISO 27001` | `Políticas de SI`
+## 🛠 Habilidades
 
-**🔍 Operações de Segurança** 
-`SIEM` | `Análise de Logs` | `Resposta a Incidentes` | `Threat Intelligence` | `Hardening`
+### 🔒 Governança e Compliance
+Governança de SI (GRC) | Gestão de Riscos | Normas e Padrões | LGPD | Políticas de SI
 
-**🌐 Segurança Técnica**
-`Segurança de Redes` | `Segurança Web` | `Criptografia` | `CCNA` | `Firewalls`
+### 🔍 Operações de Segurança
+SIEM | Análise de Logs | Resposta a Incidentes | Threat Intelligence | Hardening
 
-**💻 Desenvolvimento & Ferramentas**
-`Python` | `Automação` | `Scripting` | `Ferramentas de Pentest` | `Git`
+### 🌐 Segurança Técnica
+Segurança de Redes | Segurança Web | Segurança de Dados | Criptografia
+
+### 💻 Ferramentas e Desenvolvimento
+Python para Cibersegurança | Fundamentos de Redes (CCNA)
 
 ## 📫 Conecte-se comigo
 Email: Nicholas_SI@outlook.com
