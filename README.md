@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo(a) ao meu perfil no GitHub.
 
-Graduado em Segurança da Informação com foco em **Blue Team e operações SOC**. 
+Graduado em Segurança da Informação com foco em **Blue Team e operações SOC** e estudante de Ciência da Computação. 
 Minha trajetória é construída através de **certificações especializadas** e 
 estudos contínuos em **monitoramento de segurança, análise de ameaças 
 e resposta a incidentes**.
