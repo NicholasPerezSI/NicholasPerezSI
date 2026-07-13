@@ -44,7 +44,7 @@ SIEM | Análise de Logs | Resposta a Incidentes | Threat Intelligence | Hardenin
 Segurança de Redes | Segurança Web | Segurança de Dados | Criptografia
 
 ### 💻 Ferramentas e Desenvolvimento
-Python para Cibersegurança | Fundamentos de Redes (CCNA)
+Python para Cibersegurança | Fundamentos de Redes (CCNA) | N8N
 
 ## 📫 Conecte-se comigo
 Email: Nicholas_SI@outlook.com
